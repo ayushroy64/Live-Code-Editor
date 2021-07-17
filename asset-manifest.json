@@ -5,20 +5,20 @@
     "main.js.map": "/Live-Code-Editor/static/js/main.7ba26a2b.chunk.js.map",
     "runtime-main.js": "/Live-Code-Editor/static/js/runtime-main.294546f5.js",
     "runtime-main.js.map": "/Live-Code-Editor/static/js/runtime-main.294546f5.js.map",
-    "static/css/2.e980ac4b.chunk.css": "/Live-Code-Editor/static/css/2.e980ac4b.chunk.css",
-    "static/js/2.c095cb65.chunk.js": "/Live-Code-Editor/static/js/2.c095cb65.chunk.js",
-    "static/js/2.c095cb65.chunk.js.map": "/Live-Code-Editor/static/js/2.c095cb65.chunk.js.map",
+    "static/css/2.61721385.chunk.css": "/Live-Code-Editor/static/css/2.61721385.chunk.css",
+    "static/js/2.c340addd.chunk.js": "/Live-Code-Editor/static/js/2.c340addd.chunk.js",
+    "static/js/2.c340addd.chunk.js.map": "/Live-Code-Editor/static/js/2.c340addd.chunk.js.map",
     "index.html": "/Live-Code-Editor/index.html",
-    "precache-manifest.751785db84ed2ad5caa07da153cca213.js": "/Live-Code-Editor/precache-manifest.751785db84ed2ad5caa07da153cca213.js",
+    "precache-manifest.1c4e4733496a7428d1f209d0cca2fe81.js": "/Live-Code-Editor/precache-manifest.1c4e4733496a7428d1f209d0cca2fe81.js",
     "service-worker.js": "/Live-Code-Editor/service-worker.js",
-    "static/css/2.e980ac4b.chunk.css.map": "/Live-Code-Editor/static/css/2.e980ac4b.chunk.css.map",
+    "static/css/2.61721385.chunk.css.map": "/Live-Code-Editor/static/css/2.61721385.chunk.css.map",
     "static/css/main.96f47780.chunk.css.map": "/Live-Code-Editor/static/css/main.96f47780.chunk.css.map",
-    "static/js/2.c095cb65.chunk.js.LICENSE.txt": "/Live-Code-Editor/static/js/2.c095cb65.chunk.js.LICENSE.txt"
+    "static/js/2.c340addd.chunk.js.LICENSE.txt": "/Live-Code-Editor/static/js/2.c340addd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.294546f5.js",
-    "static/css/2.e980ac4b.chunk.css",
-    "static/js/2.c095cb65.chunk.js",
+    "static/css/2.61721385.chunk.css",
+    "static/js/2.c340addd.chunk.js",
     "static/css/main.96f47780.chunk.css",
     "static/js/main.7ba26a2b.chunk.js"
   ]
