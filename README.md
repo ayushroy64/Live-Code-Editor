@@ -1,6 +1,8 @@
 # Live Code Editor 
 ### For HTML, CSS and JavaScript
 
+Deployed to Github Pages at this link - [Live Code Editor](https://ayushroy64.github.io/Live-Code-Editor)
+
 ## Steps to run
 
 Following are the steps to run the project
